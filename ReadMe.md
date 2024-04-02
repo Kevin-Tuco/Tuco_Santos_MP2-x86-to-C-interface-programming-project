@@ -1,34 +1,37 @@
-﻿**Members:**
+# ﻿**Members:**
 
 TUCO, KEVIN BRYAN L. 
 
 SATOS, KACI RENEA G.
 
-**SPECS**
+# **SPECS**
 
 ![](Aspose.Words.42cc4ea6-f4b1-4833-bdd7-8b729a973def.001.jpeg)
 
 ![](Aspose.Words.42cc4ea6-f4b1-4833-bdd7-8b729a973def.002.jpeg)
 
-**Example Output**
+# **Example Output**
 
 ![](Aspose.Words.42cc4ea6-f4b1-4833-bdd7-8b729a973def.003.jpeg)
 
 ![](Aspose.Words.42cc4ea6-f4b1-4833-bdd7-8b729a973def.004.jpeg)
 
-**Comparative Analysis**
+# **Comparative Analysis**
 
 We tested the performance of the 2 kernels by creating a C program that calls both versions and inputs the same, randomized inputs for both. The sanity check will be from C, though we have triple checked by manually calculating the results on the first few tests to make sure.
 
-After doing tests for 220, 224, and 227, the difference between the run time average of C and Assembly is 0.003966, 0.0543, and 0.506167 respectively.
+After doing tests for 220, 224, and 227, the difference between the run time average of C and Assembly are 0.003966, 0.0543, and 0.506167 respectively for Debug Mode. 
 
-Taking note that the runtime lower of C is shorter as compared to Assembly, which has a higher runtime average. Thus, it can be concluded that the C version of the function is faster as compared to the Assembly function from the given specs.
+For Release Mode, the differences are 0.004504, 0.096829, 0.9325873.
 
-**Average Runtime**
+Taking note that the runtime lower of C is shorter as compared to Assembly, which has a higher runtime average. Thus, it can be concluded that the C version of the function is faster as compared to the Assembly function from the given specs; this is even more apparent in Release Mode, C became a bit faster and Assembly became a bit slower.
 
-**Summary:** 
 
-Debug
+# **Average Runtime**
+
+## **Summary:** 
+
+**Debug**
 
 |**N**|**Ave C**|**Ave ASM**|
 | - | - | - |
@@ -36,7 +39,7 @@ Debug
 |**2^24 = 16777216**|**0.060933**|**0.115233**|
 |**2^27 = 134217728**|**0.3808**|**0.886967**|
 
-Release
+**Release**
 
 |**N**|**Ave C**|**Ave ASM**|
 | - | - | - |
@@ -44,7 +47,7 @@ Release
 |**2^24 = 16777216**|**0.036796**|**0.133625**|
 |**2^27 = 134217728**|**0.2289097**|**1.161497**|
 
-**Debug Rundown:**
+## **Debug Rundown:**
 
 
 
@@ -173,7 +176,7 @@ Release
 |30|0\.353|0\.862|
 |**AVE**|**0.3808**|**0.886967**|
 
-**Release Rundown:**
+# **Release Rundown:**
 
 
 
