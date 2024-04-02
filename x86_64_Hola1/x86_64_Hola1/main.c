@@ -13,6 +13,9 @@ int main() {
     // Randomize double A within a range
     double A = 1.0 + rand() / (RAND_MAX / 9.0);
 
+    // 2^20 =    1048576
+    // 2^24 =   16777216
+    // 2^27 =  134217728
     // Variable for the size of arrays X and Y
     int n = 1048576; // Example size, you can set it according to your needs
 
