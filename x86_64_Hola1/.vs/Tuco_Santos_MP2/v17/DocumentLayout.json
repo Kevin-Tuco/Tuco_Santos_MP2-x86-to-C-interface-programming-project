@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B92E1-A58E-4F62-92F5-96DBD89614B6}|x86_64_Hola1\\x86_64_Hola1.vcxproj|C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\asmKernel.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A77B92E1-A58E-4F62-92F5-96DBD89614B6}|x86_64_Hola1\\x86_64_Hola1.vcxproj|solutionrelative:x86_64_Hola1\\asmKernel.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B92E1-A58E-4F62-92F5-96DBD89614B6}|x86_64_Hola1\\x86_64_Hola1.vcxproj|C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77B92E1-A58E-4F62-92F5-96DBD89614B6}|x86_64_Hola1\\x86_64_Hola1.vcxproj|solutionrelative:x86_64_Hola1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77B92E1-A58E-4F62-92F5-96DBD89614B6}|x86_64_Hola1\\x86_64_Hola1.vcxproj|C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\CKernel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77B92E1-A58E-4F62-92F5-96DBD89614B6}|x86_64_Hola1\\x86_64_Hola1.vcxproj|solutionrelative:x86_64_Hola1\\CKernel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Downloads\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Downloads\\dotProduct.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\utility_desktop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\main.c",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\main.c",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T16:43:53.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dotProduct.asm",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\dotProduct.asm",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\dotProduct.asm",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\dotProduct.asm",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\dotProduct.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-31T11:58:29.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CKernel.c",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\CKernel.c",
+              "RelativeDocumentMoniker": "x86_64_Hola1\\CKernel.c",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\CKernel.c",
+              "RelativeToolTip": "x86_64_Hola1\\CKernel.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-29T13:37:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asmKernel.asm",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\asmKernel.asm",
+              "RelativeDocumentMoniker": "x86_64_Hola1\\asmKernel.asm",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\asmKernel.asm",
+              "RelativeToolTip": "x86_64_Hola1\\asmKernel.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T13:01:51.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\main.c",
+              "RelativeDocumentMoniker": "x86_64_Hola1\\main.c",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\x86_64_Hola1\\x86_64_Hola1\\main.c",
+              "RelativeToolTip": "x86_64_Hola1\\main.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-30T12:59:11.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "utility_desktop.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\utility_desktop.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\utility_desktop.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\utility_desktop.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\utility_desktop.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAEwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T16:56:04.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAwP0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-02T10:28:54.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
