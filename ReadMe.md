@@ -26,7 +26,9 @@ Taking note that the runtime lower of C is shorter as compared to Assembly, whic
 
 **Average Runtime**
 
-**Summary:** Debug
+**Summary:** 
+
+Debug
 
 |**N**|**Ave C**|**Ave ASM**|
 | - | - | - |
